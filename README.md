@@ -1,5 +1,7 @@
 # Differential Privacy
 
+![Research](https://jb.gg/badges/research-plastic.svg)
+
 > **NEW:**
 > [Join our DP community in Slack](https://join.slack.com/t/dp-open-source/shared_invite/zt-35hw483tz-nS5YOtGjxCHk3Ek7WiXvlg)!
 
